@@ -1,6 +1,6 @@
 # Contributing to Cloud Skills Lab Manuals
 
-Thank you for helping make cloud computing accessible to first-year students! We appreciate fixes, updates, and newly written lab guides.
+Thank you for helping make cloud computing accessible to beginners! We appreciate fixes, updates, and newly written lab guides.
 
 ---
 
@@ -23,7 +23,7 @@ Adding a new lab takes only three simple steps:
 
 - **No Sensitive Data:** NEVER include actual credentials, project IDs, student email addresses, or API keys anywhere in the guide. Use placeholders like `YOUR_PROJECT_ID`, `REGION_HERE`, or `gs://${PROJECT_ID}-bucket`.
 - **Original Content Only:** Do not copy verbatim text, copyrighted instructions, or proprietary imagery from Google Cloud Skills Boost. Write explanations in your own words.
-- **One Command at a Time:** First-year learners get overwhelmed by long concatenated scripts. Keep command blocks focused on single actions.
+- **One Command at a Time:** New learners get overwhelmed by long concatenated scripts. Keep command blocks focused on single actions.
 - **Explain the "Why":** Add a 1-sentence explanation of what each command achieves or what common error might appear.
 
 ---
