@@ -43,17 +43,19 @@ Every guide explains what the cloud commands actually do behind the scenes, brea
 
 ## Lab Index
 
-| Lab ID | Lab Name | Skills Covered | Status |
-|:---|:---|:---|:---:|
-| ARC100 | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ⏳ Planned |
-| [ARC120](labs/arc120.md) | The Basics of Google Cloud Compute | Storage bucket, VM instance, persistent disk, NGINX installation | 🟡 Draft |
-| ARC122 | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ⏳ Planned |
-| ARC131 | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ⏳ Planned |
-| ARC132 | Implement Speech and Language Solutions with Pre-trained APIs | Text-to-Speech, Speech-to-Text, Cloud Translation | ⏳ Planned |
-| ARC134 | Configure Service Accounts and IAM Roles | Custom IAM roles, service accounts, BigQuery access controls | ⏳ Planned |
-| GSP319 | Build a Website on Google Cloud | Google Kubernetes Engine (GKE), microservices deployment | ⏳ Planned |
-| GSP529 | Develop AI-Powered Prototypes in Google AI Studio | Prompt engineering, multimodal prototypes, Gemini API | ⏳ Planned |
-| GSP659 | Deploy Your Website on Cloud Run | Cloud Run, container image deployment, service scaling | ⏳ Planned |
+> Labs are ordered by study sequence. **Lab 1** is ARC120 and **Lab 2** is ARC134; subsequent lab numbers will be set as we tackle each one.
+
+| # | Lab ID | Lab Name | Skills Covered | Status |
+|:---:|:---|:---|:---|:---:|
+| 1 | [ARC120](labs/arc120.md) | The Basics of Google Cloud Compute | Storage bucket, VM instance, persistent disk, NGINX installation | 🟡 Draft |
+| 2 | ARC134 | Configure Service Accounts and IAM Roles | Custom IAM roles, service accounts, BigQuery access controls | ⏳ Planned |
+| — | ARC100 | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ⏳ Planned |
+| — | ARC122 | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ⏳ Planned |
+| — | ARC131 | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ⏳ Planned |
+| — | ARC132 | Implement Speech and Language Solutions with Pre-trained APIs | Text-to-Speech, Speech-to-Text, Cloud Translation | ⏳ Planned |
+| — | GSP319 | Build a Website on Google Cloud | Google Kubernetes Engine (GKE), microservices deployment | ⏳ Planned |
+| — | GSP529 | Develop AI-Powered Prototypes in Google AI Studio | Prompt engineering, multimodal prototypes, Gemini API | ⏳ Planned |
+| — | GSP659 | Deploy Your Website on Cloud Run | Cloud Run, container image deployment, service scaling | ⏳ Planned |
 
 > [!WARNING]
 > **Known lab bug for ARC131:** At the time of writing, certain file parameters in the lab page may display as unrendered `{{{placeholders}}}`. Refer to the guidance in the manual once published.
@@ -97,14 +99,14 @@ Occasionally, Google's markdown templating engine fails to substitute dynamic va
 
 ## Roadmap
 
-Upcoming labs and planned releases:
+Upcoming labs and planned releases (in sequence):
 
-- [ ] Verify [ARC120](labs/arc120.md) in a fresh live lab run
+- [ ] **Lab 1:** Verify [ARC120](labs/arc120.md) in a fresh live lab run
+- [ ] **Lab 2:** Add and verify ARC134: Configure Service Accounts and IAM Roles
 - [ ] Add ARC100: Store, Process, and Manage Data on Google Cloud
 - [ ] Add ARC122: Analyze Images with the Cloud Vision API
 - [ ] Add ARC131: Using the Google Cloud Speech API
 - [ ] Add ARC132: Implement Speech and Language Solutions with Pre-trained APIs
-- [ ] Add ARC134: Configure Service Accounts and IAM Roles
 - [ ] Add GSP319: Build a Website on Google Cloud
 - [ ] Add GSP529: Develop AI-Powered Prototypes in Google AI Studio
 - [ ] Add GSP659: Deploy Your Website on Cloud Run
