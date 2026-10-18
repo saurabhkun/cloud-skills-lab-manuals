@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-3%20verified%20%7C%206%20planned-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
+  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-4%20verified%20%7C%205%20planned-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/type-unofficial%20study%20guide-f59e0b?style=flat-square" alt="Unofficial Study Guide">
   <img src="https://img.shields.io/badge/level-beginner%20friendly-818cf8?style=flat-square" alt="Beginner Friendly">
@@ -43,18 +43,18 @@ Every guide explains what the cloud commands actually do behind the scenes, brea
 
 ## Lab Index
 
-> Labs are ordered by study sequence. **Lab 1** is ARC120, **Lab 2** is ARC134, and **Lab 3** is ARC132. All three are verified and tested!
+> Labs are ordered by study sequence. **Lab 1** is ARC120, **Lab 2** is ARC134, **Lab 3** is ARC132, and **Lab 4** is GSP529. All four are verified and tested!
 
 | # | Lab ID | Lab Name | Skills Covered | Status |
 |:---:|:---|:---|:---|:---:|
 | 1 | [ARC120](labs/arc120.md) | The Basics of Google Cloud Compute | Storage bucket, VM instance, persistent disk, NGINX installation | ✅ Verified |
 | 2 | [ARC134](labs/arc134.md) | Configure Service Accounts and IAM Roles | Custom IAM roles, service accounts, BigQuery access controls | ✅ Verified |
 | 3 | [ARC132](labs/arc132.md) | Implement Speech and Language Solutions with Pre-trained APIs | Text-to-Speech, Speech-to-Text, Cloud Translation | ✅ Verified |
+| 4 | [GSP529](labs/gsp529.md) | Develop AI-Powered Prototypes in Google AI Studio | Prompt engineering, multimodal prototypes, Gemini API | ✅ Verified |
 | — | ARC100 | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ⏳ Planned |
 | — | ARC122 | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ⏳ Planned |
 | — | ARC131 | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ⏳ Planned |
 | — | GSP319 | Build a Website on Google Cloud | Google Kubernetes Engine (GKE), microservices deployment | ⏳ Planned |
-| — | GSP529 | Develop AI-Powered Prototypes in Google AI Studio | Prompt engineering, multimodal prototypes, Gemini API | ⏳ Planned |
 | — | GSP659 | Deploy Your Website on Cloud Run | Cloud Run, container image deployment, service scaling | ⏳ Planned |
 
 > [!WARNING]
@@ -104,11 +104,11 @@ Upcoming labs and verified releases (in sequence):
 - [x] **Lab 1:** [ARC120](labs/arc120.md) — The Basics of Google Cloud Compute (✅ Verified)
 - [x] **Lab 2:** [ARC134](labs/arc134.md) — Configure Service Accounts and IAM Roles (✅ Verified)
 - [x] **Lab 3:** [ARC132](labs/arc132.md) — Implement Speech and Language Solutions with Pre-trained APIs (✅ Verified)
+- [x] **Lab 4:** [GSP529](labs/gsp529.md) — Develop AI-Powered Prototypes in Google AI Studio (✅ Verified)
 - [ ] Add ARC100: Store, Process, and Manage Data on Google Cloud
 - [ ] Add ARC122: Analyze Images with the Cloud Vision API
 - [ ] Add ARC131: Using the Google Cloud Speech API
 - [ ] Add GSP319: Build a Website on Google Cloud
-- [ ] Add GSP529: Develop AI-Powered Prototypes in Google AI Studio
 - [ ] Add GSP659: Deploy Your Website on Cloud Run
 
 ---
