@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-7%20verified%20%7C%203%20planned-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
+  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-8%20verified%20%7C%202%20planned-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/type-unofficial%20study%20guide-f59e0b?style=flat-square" alt="Unofficial Study Guide">
   <img src="https://img.shields.io/badge/level-beginner%20friendly-818cf8?style=flat-square" alt="Beginner Friendly">
@@ -43,7 +43,7 @@ Every guide explains what the cloud commands actually do behind the scenes, brea
 
 ## Lab Index
 
-> Labs are ordered by study sequence. **Lab 1** is ARC120, **Lab 2** is ARC134, **Lab 3** is ARC132, **Lab 4** is GSP529, **Lab 5** is ARC122, **Lab 6** is GSP319, and **#7** is the Gemini Enterprise Assessment. All seven are verified and tested!
+> Labs are ordered by study sequence. **Lab 1** is ARC120, **Lab 2** is ARC134, **Lab 3** is ARC132, **Lab 4** is GSP529, **Lab 5** is ARC122, **Lab 6** is GSP319, **#7** is the Gemini Enterprise Assessment, and **Lab 8** is ARC100. All eight are verified and tested!
 
 | # | Lab ID | Lab Name | Skills Covered | Status |
 |:---:|:---|:---|:---|:---:|
@@ -54,7 +54,7 @@ Every guide explains what the cloud commands actually do behind the scenes, brea
 | 5 | [ARC122](labs/arc122.md) | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ✅ Verified |
 | 6 | [GSP319](labs/gsp319.md) | Build a Website on Google Cloud | Google Kubernetes Engine (GKE), microservices deployment | ✅ Verified |
 | 7 | [Gemini Assessment](assessments/gemini-enterprise-assessment.md) | Create Your First Gemini Enterprise Application | Enterprise RAG, periodic sync, deep research, multimodal reasoning | ✅ Verified |
-| — | ARC100 | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ⏳ Planned |
+| 8 | [ARC100](labs/arc100.md) | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ✅ Verified |
 | — | ARC131 | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ⏳ Planned |
 | — | GSP659 | Deploy Your Website on Cloud Run | Cloud Run, container image deployment, service scaling | ⏳ Planned |
 
@@ -119,7 +119,7 @@ Upcoming labs and verified releases (in sequence):
 - [x] **Lab 5:** [ARC122](labs/arc122.md) — Analyze Images with the Cloud Vision API (✅ Verified)
 - [x] **Lab 6:** [GSP319](labs/gsp319.md) — Build a Website on Google Cloud (✅ Verified)
 - [x] **#7:** [Gemini Enterprise Assessment](assessments/gemini-enterprise-assessment.md) — Course Assessment (✅ Verified)
-- [ ] Add ARC100: Store, Process, and Manage Data on Google Cloud
+- [x] **Lab 8:** [ARC100](labs/arc100.md) — Store, Process, and Manage Data on Google Cloud (✅ Verified)
 - [ ] Add ARC131: Using the Google Cloud Speech API
 - [ ] Add GSP659: Deploy Your Website on Cloud Run
 
