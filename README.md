@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-6%20verified%20ARC%20labs-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
+  <a href="#lab-index"><img src="https://img.shields.io/badge/labs-10%20verified-22c55e?style=flat-square&logo=gitbook&logoColor=white" alt="Labs Count"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-22c55e?style=flat-square" alt="MIT License"></a>
   <img src="https://img.shields.io/badge/type-unofficial%20study%20guide-f59e0b?style=flat-square" alt="Unofficial Study Guide">
   <img src="https://img.shields.io/badge/level-beginner%20friendly-818cf8?style=flat-square" alt="Beginner Friendly">
@@ -43,16 +43,20 @@ Every guide explains what the cloud commands actually do behind the scenes, brea
 
 ## Lab Index
 
-> Labs are ordered by study sequence: **Lab 1** (ARC120), **Lab 2** (ARC134), **Lab 3** (ARC132), **Lab 5** (ARC122), **Lab 8** (ARC100), and **Lab 9** (ARC131). All six ARC challenge labs are verified and tested!
+> Labs are ordered by study sequence. **Lab 1** is ARC120, **Lab 2** is ARC134, **Lab 3** is ARC132, **Lab 4** is GSP529, **Lab 5** is ARC122, **Lab 6** is GSP319, **#7** is the Gemini Enterprise Assessment, **Lab 8** is ARC100, **Lab 9** is ARC131, and **Lab 10** is GSP515. All 10 are verified and tested!
 
-| Track # | Lab ID | Lab Name | Skills Covered | Status |
+| # | Lab ID | Lab Name | Skills Covered | Status |
 |:---:|:---|:---|:---|:---:|
-| Lab 1 | [ARC120](labs/arc120.md) | The Basics of Google Cloud Compute | Storage bucket, VM instance, persistent disk, NGINX installation | ✅ Verified |
-| Lab 2 | [ARC134](labs/arc134.md) | Configure Service Accounts and IAM Roles | Custom IAM roles, service accounts, BigQuery access controls | ✅ Verified |
-| Lab 3 | [ARC132](labs/arc132.md) | Implement Speech and Language Solutions with Pre-trained APIs | Text-to-Speech, Speech-to-Text, Cloud Translation | ✅ Verified |
-| Lab 5 | [ARC122](labs/arc122.md) | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ✅ Verified |
-| Lab 8 | [ARC100](labs/arc100.md) | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ✅ Verified |
-| Lab 9 | [ARC131](labs/arc131.md) | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ✅ Verified |
+| 1 | [ARC120](labs/arc120.md) | The Basics of Google Cloud Compute | Storage bucket, VM instance, persistent disk, NGINX installation | ✅ Verified |
+| 2 | [ARC134](labs/arc134.md) | Configure Service Accounts and IAM Roles | Custom IAM roles, service accounts, BigQuery access controls | ✅ Verified |
+| 3 | [ARC132](labs/arc132.md) | Implement Speech and Language Solutions with Pre-trained APIs | Text-to-Speech, Speech-to-Text, Cloud Translation | ✅ Verified |
+| 4 | [GSP529](labs/gsp529.md) | Develop AI-Powered Prototypes in Google AI Studio | Prompt engineering, multimodal prototypes, Gemini API | ✅ Verified |
+| 5 | [ARC122](labs/arc122.md) | Analyze Images with the Cloud Vision API | Vision API, text detection, landmark detection | ✅ Verified |
+| 6 | [GSP319](labs/gsp319.md) | Build a Website on Google Cloud | Google Kubernetes Engine (GKE), microservices deployment | ✅ Verified |
+| 7 | [Gemini Assessment](assessments/gemini-enterprise-assessment.md) | Create Your First Gemini Enterprise Application | Enterprise RAG, periodic sync, deep research, multimodal reasoning | ✅ Verified |
+| 8 | [ARC100](labs/arc100.md) | Store, Process, and Manage Data on Google Cloud | Cloud Storage buckets, Pub/Sub topics, Cloud Run functions | ✅ Verified |
+| 9 | [ARC131](labs/arc131.md) | Using the Google Cloud Speech API | Speech-to-Text API, audio transcription, request JSONs | ✅ Verified |
+| 10 | [GSP515](labs/gsp515.md) | Explore Generative AI with the Gemini API in Agent Platform | Multimodal prompts, function calling, video analysis | ✅ Verified |
 
 ---
 
@@ -92,14 +96,18 @@ Occasionally, Google's markdown templating engine fails to substitute dynamic va
 
 ## Roadmap
 
-Verified ARC challenge lab releases (in sequence):
+Verified lab releases (in sequence):
 
 - [x] **Lab 1:** [ARC120](labs/arc120.md) — The Basics of Google Cloud Compute (✅ Verified)
 - [x] **Lab 2:** [ARC134](labs/arc134.md) — Configure Service Accounts and IAM Roles (✅ Verified)
 - [x] **Lab 3:** [ARC132](labs/arc132.md) — Implement Speech and Language Solutions with Pre-trained APIs (✅ Verified)
+- [x] **Lab 4:** [GSP529](labs/gsp529.md) — Develop AI-Powered Prototypes in Google AI Studio (✅ Verified)
 - [x] **Lab 5:** [ARC122](labs/arc122.md) — Analyze Images with the Cloud Vision API (✅ Verified)
+- [x] **Lab 6:** [GSP319](labs/gsp319.md) — Build a Website on Google Cloud (✅ Verified)
+- [x] **#7:** [Gemini Enterprise Assessment](assessments/gemini-enterprise-assessment.md) — Course Assessment (✅ Verified)
 - [x] **Lab 8:** [ARC100](labs/arc100.md) — Store, Process, and Manage Data on Google Cloud (✅ Verified)
 - [x] **Lab 9:** [ARC131](labs/arc131.md) — Using the Google Cloud Speech API (✅ Verified)
+- [x] **Lab 10:** [GSP515](labs/gsp515.md) — Explore Generative AI with the Gemini API in Agent Platform (✅ Verified)
 
 ---
 
